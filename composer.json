@@ -1,0 +1,9 @@
+{
+    "name": "sefa.unal/packagist-test",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Hello\\": "src/Hello"
+        }
+    }
+}
